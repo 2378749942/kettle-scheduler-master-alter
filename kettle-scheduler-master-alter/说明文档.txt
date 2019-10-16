@@ -1,4 +1,4 @@
-本项目是为公司（厦门数据谷信息科技有限公司）运维人员做的个性化修改。项目源码https://github.com/zhaxiaodong9860/kettle-scheduler
+本项目是为公司运维人员做的个性化修改。项目源码https://github.com/zhaxiaodong9860/kettle-scheduler
 欢迎大神指点。
 
 其中修改文件如下
