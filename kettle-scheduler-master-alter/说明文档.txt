@@ -1,0 +1,16 @@
+本项目是为公司（厦门数据谷信息科技有限公司）运维人员做的个性化修改。项目源码https://github.com/zhaxiaodong9860/kettle-scheduler
+欢迎大神指点。
+
+其中修改文件如下
+1.将k_tb.sql在配置库中执行
+2./resources/resource/timing.properties 定时器设置时间配置文件，具体配置说明在文件内。
+3./resources/resource/DBConn.properties 资源库配置文件，具体配置说明在文件内。
+4.list.jsp 的文件路径是  ..\WEB-INF\views\data
+5.com.zhaxd.web.service.JobService
+6.com.zhaxd.web.service.TransService
+7.com.zhaxd.web.service.TransAndJobInitService
+8.com.zhaxd.web.service.DataListservice
+9.com.zhaxd.web.utils.DBConn
+10.com.zhaxd.core.model.KTb
+11.com.zhaxd.core.model.DataListWD
+12.web.xml
