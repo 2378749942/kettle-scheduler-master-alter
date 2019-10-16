@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kettle-scheduler:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>kettle-scheduler</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kettle-scheduler-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="kettle-scheduler:war exploded" />
+    </root>
+  </artifact>
+</component>
